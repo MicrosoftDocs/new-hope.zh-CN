@@ -1,0 +1,11 @@
+log/
+obj/
+_site/
+.optemp/
+_themes*/
+_model/
+_viewmodel/
+node_modules
+.openpublishing.buildcore.ps1
+
+.DS_Store

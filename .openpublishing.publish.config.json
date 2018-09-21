@@ -1,0 +1,71 @@
+{
+  "docsets_to_publish": [
+    {
+      "docset_name": "mtps-library-migration",
+      "build_source_folder": "library-migration",
+      "build_output_subfolder": "mtps-library-migration",
+      "locale": "zh-CN",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": false,
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
+      "docset_name": "new-hire",
+      "build_source_folder": "new-hire",
+      "build_output_subfolder": "new-hire",
+      "locale": "zh-CN",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": false,
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
+      "docset_name": "new-hope",
+      "build_source_folder": "new-hope",
+      "build_output_subfolder": "new-hope",
+      "locale": "zh-CN",
+      "open_to_public_contributors": false,
+      "build_entry_point": "docs",
+      "template_folder": "_themes",
+      "version": 0
+    }
+  ],
+  "notification_subscribers": [],
+  "branches_to_filter": [
+    "live-sxs",
+    "master-sxs"
+  ],
+  "continue_with_document_error": true,
+  "skip_source_output_uploading": false,
+  "need_preview_pull_request": true,
+  "contribution_branch_mappings": {},
+  "dependent_repositories": [
+    {
+      "path_to_root": "_themes",
+      "url": "https://github.com/Microsoft/templates.docs.msft.zh-CN",
+      "branch": "master",
+      "branch_mapping": {}
+    },
+    {
+      "path_to_root": "_repo.en-us",
+      "url": "https://github.com/microsoftdocs/new-hope",
+      "branch": "live",
+      "branch_mapping": {
+        "live": "live",
+        "master": "master"
+      }
+    }
+  ],
+  "branch_target_mapping": {
+    "live": [
+      "Publish"
+    ]
+  },
+  "need_generate_pdf_url_template": false,
+  "targets": {},
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false
+}
