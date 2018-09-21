@@ -1,0 +1,734 @@
+{
+    "redirections": [
+        {
+            "source_path": "new-hope/specs/reference/redirect-to-cli-ga-spec.md",
+            "redirect_url": "https://microsoft.sharepoint.com/teams/CE_CSI/_layouts/15/guestaccess.aspx?guestaccesstoken=sA050mbTh4eWjIf3IPY+CsnlVAWMzfNfqYZjrzhpRe8=&docid=2_17cef80b2b1c74fbbb105be22676ef10e&rev=1",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/ops-build-service-and-docfx-improvement.md",
+            "redirect_url": "/new-hope/engineering/architecture/ops/build-service",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/ops-insight-improvement.md",
+            "redirect_url": "/new-hope/engineering/architecture/bi/ops-insight-improvement",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/ops-validation-architecture.md",
+            "redirect_url": "/new-hope/engineering/architecture/ops/ops-validation-architecture",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/architecture/hosting-layer.md",
+            "redirect_url": "/new-hope/engineering/architecture/ops/hosting-layer",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/new-hope/engineering/ops-build-docfx-vnext.md",
+            "redirect_url": "/new-hope/engineering/architecture/ops/ops-build-docfx-vnext",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/specs/recommendation/docs-recommendation-dev-spec.md",
+            "redirect_url": "/new-hope/engineering/architecture/recommendations/dev-spec",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/new-hope/engineering/unify-trace.md",
+            "redirect_url": "/new-hope/engineering/best-practices/trace-guidelines",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hire/index.md",
+            "redirect_url": "./useful-links",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/resources/onboarding-managed-content.md",
+            "redirect_url": "https://opsdocs.azurewebsites.net/en-us/opsdocs/reference/howto-onboard-reference-project?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/architecture/ops/ops-build-docfx-vnext-overwrite.md",
+            "redirect_url": "/new-hope/engineering/architecture/ops/build/ops-build-docfx-vnext-overwrite",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/specs/ops/separate-build-workers-with-priorities.md",
+            "redirect_url": "/new-hope/engineering/architecture/ops/build//separate-build-workers-with-priorities",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/development/dev-langs.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/engineering/ux/docs/metadata/dev-langs",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/resources/github-issues-feedback-policy.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/help/contribute/github-issues-feedback-policy",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/resources/github-issues-feedback.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/help/contribute/github-issues-feedback",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/specs/qa-forums/qa-forums-vnext-req.md",
+            "redirect_url": "/new-hope/specs/qa-forums/vision/qa-forums-vision",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/specs/qa-forums/qa-forums-mvp.md",
+            "redirect_url": "/new-hope/specs/qa-forums/crawl/qa-forums-crawl",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/planning/planning-process.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/new-hope/planning/planningprocessnew?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/resources/moniker-creation-assignment-process.md",
+            "redirect_url": "https://opsdocs.azurewebsites.net/en-us/opsdocs/partnerdocs/versions-monikers?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/specs/qa-forums/index.md",
+            "redirect_url": "/new-hope/specs/qa-forums/vision/qa-forums-vision",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/templates-and-hosting.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/engineering/ux/research/sanya-plan?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/alerts.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/test/markdown-extensions/alerts?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/code-includes.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/test/markdown-extensions/code-includes?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/code.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/test/markdown/code-formatting?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/custom-classes.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/test/markdown-extensions/custom-classes?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/images.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/test/markdown/images?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/includes.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/test/markdown-extensions/includes?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/index.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/test/?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/links.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/test/markdown/links?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/lists.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/test/markdown/lists?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/selectors.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/test/markdown-extensions/selectors?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/tables.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/test/markdown/tables?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/text.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/test/markdown/text-formatting?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/videos.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/test/markdown-extensions/videos?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/development/accessibility-tools.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/engineering/ux/practices/accessibility?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/development/bi.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/engineering/ux/docs/features/bi/?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/development/browsersupport.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/engineering/ux/docs/testing/browser-support?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/development/code-style.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/engineering/ux/practices/code-style?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/development/environment-setup.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/engineering/ux/docs/development/environment-setup?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/development/environments.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/engineering/ux/docs/development/hosting-environments?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/development/fiddler-setup.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/engineering/ux/docs/development/fiddler-setup?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/development/highlightjs.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/engineering/ux/docs/development/updating-highlightjs?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/development/github-issues-bi.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/engineering/ux/docs/features/bi/github?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/development/languagehighlighting.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/engineering/ux/docs/features/syntax-highlighting?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/development/nustache-template-debug.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/engineering/ux/docs/development/nustache-debug?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/development/open-rating.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/engineering/ux/docs/research/open-rating?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/development/triplecrown-bi.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/engineering/ux/docs/features/bi/triplecrown?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/metadata/appliesto.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/engineering/ux/docs/metadata/applies-to?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/metadata/devlangs.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/engineering/ux/docs/metadata/dev-langs?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/metadata/hideEdit.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/engineering/ux/docs/metadata/hide-edit?branch=master",
+            "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/engineering/docs/metadata/index.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/engineering/ux/docs/metadata/?branch=master",
+            "redirect_document_id": false
+        },
+    {
+      "source_path": "new-hope/engineering/architecture/doc-repos.md",
+      "redirect_url": "/engineering/projects/doc-repos",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/index.md",
+      "redirect_url": "/engineering/projects/index",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/new-ops-architecture-overview.md",
+      "redirect_url": "/engineering/projects/new-ops-architecture-overview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/bi/backend-job-details.md",
+      "redirect_url": "/engineering/projects/bi/backend-job-details",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/bi/index.md",
+      "redirect_url": "/engineering/projects/bi/index",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/bi/ops-insight-datastorage.md",
+      "redirect_url": "/engineering/projects/bi/ops-insight-datastorage",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/bi/ops-insight-improvement.md",
+      "redirect_url": "/engineering/projects/bi/ops-insight-improvement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/bi/ops-insight-reports.md",
+      "redirect_url": "/engineering/projects/bi/ops-insight-reports",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/bi/trace-improvement-plan.md",
+      "redirect_url": "/engineering/projects/bi/trace-improvement-plan",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/markdig-extensions/index.md",
+      "redirect_url": "/engineering/projects/markdig-extensions/index",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/markdig-extensions/table-extension.md",
+      "redirect_url": "/engineering/projects/markdig-extensions/table-extension",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/ops/branch-promotion.md",
+      "redirect_url": "/engineering/projects/ops/branch-promotion",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/ops/build-service.md",
+      "redirect_url": "/engineering/projects/ops/build-service",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/ops/configurations.md",
+      "redirect_url": "/engineering/projects/ops/configurations",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/ops/dhs-sharebasepath-improvement.md",
+      "redirect_url": "/engineering/projects/ops/dhs-sharebasepath-improvement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/ops/dhs.md",
+      "redirect_url": "/engineering/projects/ops/dhs",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/ops/document_hosting_service_emulator.md",
+      "redirect_url": "/engineering/projects/ops/document_hosting_service_emulator",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/ops/e2e-testing.md",
+      "redirect_url": "/engineering/projects/ops/e2e-testing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/ops/hosting-layer.md",
+      "redirect_url": "/engineering/projects/ops/hosting-layer",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/ops/importer.md",
+      "redirect_url": "/engineering/projects/ops/importer",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/ops/index.md",
+      "redirect_url": "/engineering/projects/ops/index",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/ops/notificaion-service.md",
+      "redirect_url": "/engineering/projects/ops/notificaion-service",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/ops/ops-build-docfx-vnext.md",
+      "redirect_url": "/engineering/projects/ops/ops-build-docfx-vnext",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/ops/ops-validation-architecture.md",
+      "redirect_url": "/engineering/projects/ops/ops-validation-architecture",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/ops/overwrite-ci.md",
+      "redirect_url": "/engineering/projects/ops/overwrite-ci",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/ops/publish-workflow-vnext.md",
+      "redirect_url": "/engineering/projects/ops/publish-workflow-vnext",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/ops/razor_development_process.md",
+      "redirect_url": "/engineering/projects/ops/razor_development_process",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/ops/razor_preview_branch.md",
+      "redirect_url": "/engineering/projects/ops/razor_preview_branch",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/ops/build/incremental-build.md",
+      "redirect_url": "/engineering/projects/ops/build/incremental-build",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/ops/build/ops-build-docfx-vnext-overwrite.md",
+      "redirect_url": "/engineering/projects/ops/build/ops-build-docfx-vnext-overwrite",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/ops/build/separate-build-workers-with-priorities.md",
+      "redirect_url": "/engineering/projects/ops/build/separate-build-workers-with-priorities",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/ops/vnext/vnext-versioning.md",
+      "redirect_url": "/engineering/projects/ops/vnext/vnext-versioning",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/qa/discourse-gdpr.md",
+      "redirect_url": "/engineering/projects/qa/discourse-gdpr",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/qa/index.md",
+      "redirect_url": "/engineering/projects/qa/index",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/recommendations/dev-spec.md",
+      "redirect_url": "/engineering/projects/recommendations/dev-spec",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/recommendations/ops-e2e-dev-spec.md",
+      "redirect_url": "/engineering/projects/recommendations/ops-e2e-dev-spec",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/reference/index.md",
+      "redirect_url": "/engineering/projects/reference/index",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/reference/dotnet/dotnet-to-sdp.md",
+      "redirect_url": "/engineering/projects/reference/dotnet/dotnet-to-sdp",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/reference/powershell/powershell-to-sdp.md",
+      "redirect_url": "/engineering/projects/reference/powershell/powershell-to-sdp",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/samples/data-collection-web-service.md",
+      "redirect_url": "/engineering/projects/samples/data-collection-web-service",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/samples/dead-letter-logger.md",
+      "redirect_url": "/engineering/projects/samples/dead-letter-logger",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/samples/deployment.md",
+      "redirect_url": "/engineering/projects/samples/deployment",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/samples/general-web-functions-notes.md",
+      "redirect_url": "/engineering/projects/samples/general-web-functions-notes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/samples/GitHub-API-usage.md",
+      "redirect_url": "/engineering/projects/samples/GitHub-API-usage",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/samples/index.md",
+      "redirect_url": "/engineering/projects/samples/index",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/samples/manifest-data-processor.md",
+      "redirect_url": "/engineering/projects/samples/manifest-data-processor",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/samples/manifest-downloader.md",
+      "redirect_url": "/engineering/projects/samples/manifest-downloader",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/samples/manifest-paths-queue.md",
+      "redirect_url": "/engineering/projects/samples/manifest-paths-queue",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/samples/manifests-queue.md",
+      "redirect_url": "/engineering/projects/samples/manifests-queue",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/samples/payload-processor.md",
+      "redirect_url": "/engineering/projects/samples/payload-processor",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/samples/publish-to-github.md",
+      "redirect_url": "/engineering/projects/samples/publish-to-github",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/samples/sample-web-api.md",
+      "redirect_url": "/engineering/projects/samples/sample-web-api",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/samples/samples-api.md",
+      "redirect_url": "/engineering/projects/samples/samples-api",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/samples/samples-zip-ci.md",
+      "redirect_url": "/engineering/projects/samples/samples-zip-ci",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/samples/tests-and-ci.md",
+      "redirect_url": "/engineering/projects/samples/tests-and-ci",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/samples/webhook-payloads-queue.md",
+      "redirect_url": "/engineering/projects/samples/webhook-payloads-queue",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/xref/design-details.md",
+      "redirect_url": "/engineering/projects/xref/design-details",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/xref/dev-spec.md",
+      "redirect_url": "/engineering/projects/xref/dev-spec",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/triplecrown/index.md",
+      "redirect_url": "/engineering/projects/triple-crown/build/index",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/triplecrown/progress/progress-api.md",
+      "redirect_url": "/engineering/projects/triple-crown/build/progress/progress-api",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/triplecrown/progress/progress-service.md",
+      "redirect_url": "/engineering/projects/triple-crown/build/progress/progress-service",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/triplecrown/progress/progress-storage.md",
+      "redirect_url": "/engineering/projects/triple-crown/build/progress/progress-storage",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/triplecrown/Quiz/index.md",
+      "redirect_url": "/engineering/projects/triple-crown/build/Quiz/index",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/triplecrown/Quiz/quiz_api.md",
+      "redirect_url": "/engineering/projects/triple-crown/build/Quiz/quiz_api",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/triplecrown/Quiz/quiz_build_publish.md",
+      "redirect_url": "/engineering/projects/triple-crown/build/Quiz/quiz_build_publish",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/triplecrown/Quiz/quiz_e2e.md",
+      "redirect_url": "/engineering/projects/triple-crown/build/Quiz/quiz_e2e",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/architecture/triplecrown/Quiz/quiz_preview.md",
+      "redirect_url": "/engineering/projects/triple-crown/build/Quiz/quiz_preview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/best-practices/azure-development-guidelines.md",
+      "redirect_url": "/engineering/best-practices/azure-development-guidelines",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/best-practices/dotnet-development-guidelines.md",
+      "redirect_url": "/engineering/best-practices/dotnet-development-guidelines",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/best-practices/index.md",
+      "redirect_url": "/engineering/best-practices/index",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/best-practices/security-guidelines.md",
+      "redirect_url": "/engineering/best-practices/security-guidelines",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/best-practices/trace-guidelines.md",
+      "redirect_url": "/engineering/best-practices/trace-guidelines",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/compliance/accessibility.md",
+      "redirect_url": "/engineering/compliance/accessibility",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/compliance/index.md",
+      "redirect_url": "/engineering/compliance/index",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/engineering/compliance/security-guidelines.md",
+      "redirect_url": "/engineering/compliance/security-guidelines",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/triplecrown/index.md",
+      "redirect_url": "https://review.docs.microsoft.com/en-us/learn-docs/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/triplecrown/create-a-learning-path.md",
+      "redirect_url": "https://review.docs.microsoft.com/en-us/learn-docs/create-a-learning-path",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/triplecrown/create-a-module.md",
+      "redirect_url": "https://review.docs.microsoft.com/en-us/learn-docs/create-a-module",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/triplecrown/write-a-unit.md",
+      "redirect_url": "https://review.docs.microsoft.com/en-us/learn-docs/write-a-unit",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/triplecrown/write-a-unit-text-only.md",
+      "redirect_url": "https://review.docs.microsoft.com/en-us/learn-docs/write-a-unit-text-only",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/triplecrown/client-vm-lab.md",
+      "redirect_url": "https://review.docs.microsoft.com/en-us/learn-docs/client-vm-lab",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/triplecrown/cloudshell-lab.md",
+      "redirect_url": "https://review.docs.microsoft.com/en-us/learn-docs/cloudshell-lab",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/triplecrown/write-a-unit-knowledge-check-only.md",
+      "redirect_url": "https://review.docs.microsoft.com/en-us/learn-docs/write-a-unit-knowledge-check-only",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/triplecrown/write-a-unit-net-repl-lab.md",
+      "redirect_url": "https://review.docs.microsoft.com/en-us/learn-docs/write-a-unit-net-repl-lab",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/triplecrown/write-a-unit-text-and-knowledge-check.md",
+      "redirect_url": "https://review.docs.microsoft.com/en-us/learn-docs/write-a-unit-text-and-knowledge-check",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/triplecrown/write-a-workshop-hands-on-lab.md",
+      "redirect_url": "https://review.docs.microsoft.com/en-us/learn-docs/write-a-workshop-hands-on-lab",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/specs/qa-forums/qa-forums-vision.md",
+      "redirect_url": "/new-hope/specs/qa-forums/vision/qa-forums-vision",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/specs/qa-forums/current-forums-platform-estate.md",
+      "redirect_url": "/new-hope/specs/qa-forums/vision/current-forums-platform-estate",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/specs/qa-forums/qa-competitor-review.md",
+      "redirect_url": "/new-hope/specs/qa-forums/vision/qa-competitor-review",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/specs/qa-forums/qa-forums-languages.md",
+      "redirect_url": "/new-hope/specs/qa-forums/vision/qa-forums-languages",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/specs/qa-forums/qa-forums-migration-options.md",
+      "redirect_url": "/new-hope/specs/qa-forums/vision/qa-forums-migration-options",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/specs/qa-forums/qa-forums-platform-eval.md",
+      "redirect_url": "/new-hope/specs/qa-forums/vision/qa-forums-platform-eval",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/specs/qa-forums/tech-forums-importance.md",
+      "redirect_url": "/new-hope/specs/qa-forums/vision/tech-forums-importance",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/specs/qa-forums/jsll.md",
+      "redirect_url": "/new-hope/specs/qa-forums/vision/jsll",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "new-hope/specs/qa-forums/qa-ml-recommendation.md",
+      "redirect_url": "/new-hope/specs/qa-forums/vision/qa-ml-recommendation",
+      "redirect_document_id": false
+    }
+  ]
+}
