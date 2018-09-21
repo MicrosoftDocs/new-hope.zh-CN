@@ -1,0 +1,53 @@
+{
+  "build": {
+    "git_repository_url_open_to_public_contributors": "false",
+    "markdownEngineName": "dfm-latest",
+    "content": [
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "new-hope/**",
+          "**/includes/**"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.jpg",
+          "**/*.gif",
+          "**/*.svg",
+          "**/*.js",
+          "**/*.css",
+          "**/*.html",
+          "**/*.eot",
+          "**/*.ttf",
+          "**/*.woff",
+          "**/*.scss",
+          "**/*.zip",
+          "**/*.json",
+          "**/*.pdf"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "new-hope/**"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "searchScope": ["New Hope"],
+	  "breadcrumb_path": "/new-hope/breadcrumb/toc.json",
+	  "extendBreadcrumb": true
+    },
+    "fileMetadata": {},
+    "template": [],
+    "dest": "new-hope"
+  }
+}
