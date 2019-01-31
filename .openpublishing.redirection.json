@@ -784,6 +784,11 @@
             "source_path": "new-hope/specs/gauntlet/validation-rollout-plan-fy19q3.md",
             "redirect_url": "https://review.docs.microsoft.com/en-us/new-hope/specs/validation/validation-rollout-plan-fy19q3?branch=master",
             "redirect_document_id": false
+        },
+        {
+            "source_path": "new-hope/specs/qa-forums/crawl/qa-forums-crawl-migration.md",
+            "redirect_url": "https://review.docs.microsoft.com/en-us/new-hope/specs/forums/crawl/msdn-forum-migration?branch=master",
+            "redirect_document_id": false
         }
     ]
 }
