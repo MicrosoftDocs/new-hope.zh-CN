@@ -21,28 +21,15 @@
       "open_to_public_contributors": false,
       "build_entry_point": "docs",
       "template_folder": "_themes"
-    },
-    {
-      "docset_name": "new-hope",
-      "build_source_folder": "new-hope",
-      "build_output_subfolder": "new-hope",
-      "locale": "zh-CN",
-      "open_to_public_contributors": false,
-      "build_entry_point": "docs",
-      "template_folder": "_themes",
-      "version": 0
     }
   ],
   "notification_subscribers": [],
-  "sync_notification_subscribers": null,
   "branches_to_filter": [
     "live-sxs",
     "master-sxs"
   ],
   "continue_with_document_error": true,
-  "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
-  "contribution_branch_mappings": {},
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
@@ -65,8 +52,10 @@
       "Publish"
     ]
   },
-  "need_generate_pdf_url_template": false,
   "targets": {},
+  "skip_source_output_uploading": false,
+  "contribution_branch_mappings": {},
+  "need_generate_pdf_url_template": false,
   "need_generate_pdf": false,
   "need_generate_intellisense": false
 }
